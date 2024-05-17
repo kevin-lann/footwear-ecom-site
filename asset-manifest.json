@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/footwear-ecom-site/static/css/main.410c4154.css",
+    "main.js": "/footwear-ecom-site/static/js/main.12eaa07a.js",
+    "static/media/logo.jpg": "/footwear-ecom-site/static/media/logo.ea914af4307b1288d5cd.jpg",
+    "index.html": "/footwear-ecom-site/index.html",
+    "main.410c4154.css.map": "/footwear-ecom-site/static/css/main.410c4154.css.map",
+    "main.12eaa07a.js.map": "/footwear-ecom-site/static/js/main.12eaa07a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.410c4154.css",
+    "static/js/main.12eaa07a.js"
+  ]
+}
