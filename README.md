@@ -1,5 +1,7 @@
 # Footwear ecommerce site
 
+LINK: https://kevin-lann.github.io/footwear-ecom-site/
+
 Built using vanilla react.js. Advanced filtering and product search.
 
 Run using:
