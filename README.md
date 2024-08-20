@@ -1,4 +1,4 @@
-.# Footwear ecommerce site
+..# Footwear ecommerce site
 
 LINK: https://kevin-lann.github.io/footwear-ecom-site/
 
